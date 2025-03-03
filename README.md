@@ -1,4 +1,4 @@
-# 📝  Text Summarizer with LSTM Attention Mechanism
+# 📝  Abstractive Text Summarizer with LSTM Attention Mechanism
 🚀 An abstractive text summarization model using LSTM with an Attention Mechanism, trained on Amazon Fine Foods reviews.  
 
 ---
